@@ -15,3 +15,8 @@ To avoid getting the same number, the seed values are being altered each time by
 
 
 The obtained values of x and y coordinate are plotted and the value of pi is estimated.
+
+The plots produced for 2 different instances are as follows.
+![Screenshot (117)](https://user-images.githubusercontent.com/59289916/163453374-2e11fc4a-d107-4edf-8144-cc7444886083.png)
+![image](https://user-images.githubusercontent.com/59289916/163453389-48e015d4-eaae-4acc-aaef-c58b95f59b8d.png)
+
